@@ -14,4 +14,6 @@ def minOperations(n):
     return 0
 
 if __name__ =="__main__":
-
+    print(minOperations(19170307))
+    print(minOperations(972))
+    print(minOperations(2147483640))
