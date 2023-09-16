@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Method that calculates the fewest number of operations needed to result in exactly n H characters in the file."""
+""" calculates the fewest number of operations needed to result in exactly n H characters in the file."""
 
 
 def minOperations(n):
@@ -16,4 +16,3 @@ if __name__ == "__main__":
     print(minOperations(19170307))
     print(minOperations(972))
     print(minOperations(2147483640))
-
